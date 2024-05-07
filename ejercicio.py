@@ -7,4 +7,4 @@ print(f"Los productos en la lista de compras son: {productos}")
 
 # Convertir la lista de compras en una tupla
 def convertir_lista_a_tupla(lista):
-    return # Utiliza una función para convertir 
+    return tuple(lista)
